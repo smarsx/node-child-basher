@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "outDir": "dist",
+    "module": "commonjs",
+    "target": "ES2019",
+    "lib": [
+      "dom",
+      "esnext"
+    ],
+    "moduleResolution": "node",
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "resolveJsonModule": true,
+    "types": [
+      "node",
+    ]
+  },
+  "include": [
+    "src/**/*",
+    "src/config.ts"
+  ]
+}
