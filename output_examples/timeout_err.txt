@@ -1,0 +1,601 @@
+directory:  /home/user/csvs/backup/2017
+command:  head -n 1 $
+file ending:  .csv
+timeout:  1
+files len:  119
+utilizing up to 8 threads
+
+[96mAnderson-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mAndrews-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mAngelina-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mAransas-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mArcher-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mAtascosa-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mAustin-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mBandera-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mBastrop-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mBaylor-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mBee-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mBexar-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mBorden-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mBowie-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mBrazoria-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mBrazos-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mBrooks-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mBrown-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mBurleson-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mCaldwell-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mCalhoun-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mCallahan-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mCameron-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mCamp-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mCarson-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mCass-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mChambers-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mCherokee-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mChildress-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mClay-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mCochran-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mCoke-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mColeman-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mCollingsworth-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mColorado-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mComanche-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mConcho-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mCooke-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mCottle-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mCrane-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mCrockett-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mCrosby-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mCulberson-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mDallas-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mDawson-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mDeWitt-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mDickens-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mDimmit-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mDonley-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mDuval-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mEastland-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mEdwards-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mEllis-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mErath-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mFayette-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mFisher-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mFloyd-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mFortBend-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mFranklin-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mFrio-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mGaines-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mGalveston-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mGarza-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mGlasscock-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mGoliad-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mGonzales-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mGray-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mGrayson-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mGrimes-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mGuadalupe-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mHaleHansfordHardemanHardin-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mHarris-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mHartleyHaskell-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mHemphill-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mHendersonHidalgo-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mHillHockleyHoodHopkins-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mHoustonHowardHunt-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mHutchinsonIrion-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mJackJacksonJasperJeffersonJimHoggJimWells-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mJonesKaufmanKenedyKentKingKlebergKnoxLambLiveOakLubbock-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mKarnes-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mLaSalleLynnMarion-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mLavacaLee-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mLeonMatagorda-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mLibertyLipscomb-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mLimestone-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mLovingMcCullochMadisonMaverickMedinaMenard-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mMartin-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mMcMullenMilamMitchellMotleyOldham-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mMidland-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mMontgomeryMoore-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mNacogdoches-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mNavarroNewtonNolanNueces-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mOchiltreeOrangePaloPintoRainsRedRiverRefugio-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mParker-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mPecos-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mPolkPotterRobertson-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mReagan-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mReevesRunnelsSabineSanJacintoSanPatricio-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mRobertsSterling-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mSanAugustineSchleicherSomervellTaylor-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mScurry-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mShackelfordShermanSomervellStonewallTerrell-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mShelbyTravisTrinityValVerdeWalker-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mSmith-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mStarrTerry-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mStephens-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mSuttonThrockmortonTitus-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mTomGreenTylerVanZandt-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mUpshur--MR-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mUpshurVictoriaWaller-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mWardWashingtonWilliamsonWilson-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mWebbWhartonWilbarger-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mWheeler-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mWichitaWillacyYoungZavala-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mWinkler-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mWood-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mYoakum-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!
+
+[96mZapata-2017-MR.csv[0m
+[41mError![0m
+stdout:  
+stderr:  timeout!

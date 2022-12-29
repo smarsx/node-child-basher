@@ -1,0 +1,482 @@
+directory:  /home/user/csvs/backup/2017
+command:  head -n 1 $
+file ending:  .csv
+timeout:  30
+files len:  119
+utilizing up to 8 threads
+
+[96mAnderson-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mAndrews-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mAngelina-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mAransas-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mArcher-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mAtascosa-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mAustin-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mBandera-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mBastrop-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mBaylor-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mBee-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mBexar-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mBorden-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mBowie-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mBrazoria-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mBrazos-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mBrooks-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mBrown-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mBurleson-2017-MR.csv[0m
+OWNERNUM,NAME,NAME2,VALUE,VALUE90,INTEREST,TYPE,OPERATOR,RRC,LEASENAME,DESCRIPT,FIELD,ADDRESS1,ADDRESS2,PHYSICALA,CITY,STATE,ZIP,ZIP4,COUNTY,LAT,LONG,API
+
+
+[96mCaldwell-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mCalhoun-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mCallahan-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mCameron-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mCamp-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mCarson-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mCass-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mChambers-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mCherokee-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mChildress-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mClay-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mCochran-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mCoke-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mColeman-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mCollingsworth-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mColorado-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mComanche-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mConcho-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mCooke-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mCottle-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mCrane-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mCrockett-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mCrosby-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mCulberson-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mDallas-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mDawson-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mDeWitt-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mDickens-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mDimmit-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mDonley-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mDuval-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mEastland-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mEdwards-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mEllis-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mErath-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mFayette-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mFisher-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mFloyd-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mFortBend-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mFranklin-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mFrio-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mGaines-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mGalveston-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mGarza-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mGlasscock-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mGoliad-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mGonzales-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mGray-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mGrayson-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mGrimes-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mGuadalupe-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mHaleHansfordHardemanHardin-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mHarris-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mHartleyHaskell-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mHemphill-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mHendersonHidalgo-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mHillHockleyHoodHopkins-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mHoustonHowardHunt-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mHutchinsonIrion-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mJackJacksonJasperJeffersonJimHoggJimWells-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mJonesKaufmanKenedyKentKingKlebergKnoxLambLiveOakLubbock-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mKarnes-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mLaSalleLynnMarion-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mLavacaLee-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mLeonMatagorda-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mLibertyLipscomb-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mLimestone-2017-MR.csv[0m
+County,State,Year,Owner ID,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mLovingMcCullochMadisonMaverickMedinaMenard-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mMartin-2017-MR.csv[0m
+County,State,Year,Owner ID,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mMcMullenMilamMitchellMotleyOldham-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mMidland-2017-MR.csv[0m
+County,State,Year,Owner ID,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mMontgomeryMoore-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mNacogdoches-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mNavarroNewtonNolanNueces-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mOchiltreeOrangePaloPintoRainsRedRiverRefugio-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mParker-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mPecos-2017-MR.csv[0m
+County,State,Year,Owner ID,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mPolkPotterRobertson-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mReagan-2017-MR.csv[0m
+County,State,Year,Owner ID,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mReevesRunnelsSabineSanJacintoSanPatricio-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mRobertsSterling-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mSanAugustineSchleicherSomervellTaylor-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mScurry-2017-MR.csv[0m
+County,State,Year,Owner ID,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mShackelfordShermanSomervellStonewallTerrell-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mShelbyTravisTrinityValVerdeWalker-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mSmith-2017-MR.csv[0m
+County,State,Year,Owner ID,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mStarrTerry-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mStephens-2017-MR.csv[0m
+County,State,Year,Owner ID,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mSuttonThrockmortonTitus-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mTomGreenTylerVanZandt-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mUpshur--MR-2017-MR.csv[0m
+As Of,Client,Appraisal Year,Account,Client Information,Property Type,Comptroller Property Classification,Property Description 1,Property Description 2,Property Description 3,Property Description 4,Property Description 5,Property Description 6,Interest Fraction,Interest Type,Owner Key,Owner Name 1,Owner Name 2,Owner Address 1,Owner Address 2,Owner Address 3,Owner City,Owner State,Owner Zip Code,Owner Country,Agent Code,Agent Name 1,Agent Name 2,Agent Address 1,Agent Address 2,Agent Address 3,Agent City,Agent State,Agent Zip Code,Agent Country,Value Type,Total Value,Absolute Exemption,Disabled Veteran Exemption,Pollution Control Exemption,Solar/Wind Powered Exemption,Water Conservation Exemption,Foreign Trade Zone Exemption,Interstate Commerce Exemption,Freeport Exemption,Goods In Transit Exemption,Historical Exemption,Minimum Value Exemption,Abatement Agreement,Chapter 313 Value Limitation
+
+
+[96mUpshurVictoriaWaller-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mWardWashingtonWilliamsonWilson-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mWebbWhartonWilbarger-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mWheeler-2017-MR.csv[0m
+County,State,Year,Owner ID,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mWichitaWillacyYoungZavala-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mWinkler-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mWood-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mYoakum-2017-MR.csv[0m
+County,State,Year,Owner ID,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
+
+[96mZapata-2017-MR.csv[0m
+County,State,Year,Owner,First Name,Last Name,Attn,Full Address,Owner Address,Owner City,Owner State,Owner Zip,Interest,Interest Type,Appraisal Value,Legal Description,Property,Operator,RRC
+
