@@ -8,7 +8,7 @@ execute bash commands on a directory utilizing node child processes with timeout
 - (optional) file end to filter directory by
 
 ### ENV
-- TIMEOUT (default 30s)
+- TIMEOUT (ms, default: 30000ms)
 
 ### Use
 - install tsc
@@ -29,7 +29,7 @@ node dist/src/index.js "cp -r $ /new" /usr/bin .txt
 ```
 - mv all .csv files in /usr/bin to /data with 5s timeout
 ```bash
-TIMEOUT=5 node dist/src/index.js "mv $ /data" /usr/bin .csv
+TIMEOUT=5000 node dist/src/index.js "mv $ /data" /usr/bin .csv
 ```
 \.
 ### Personal Use

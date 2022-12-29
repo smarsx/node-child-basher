@@ -1,7 +1,7 @@
 directory:  /home/user/csvs/backup/2017
 command:  head -n 1 $
 file ending:  .csv
-timeout:  30
+timeout:  30000ms
 files len:  119
 utilizing up to 8 threads
 
