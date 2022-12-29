@@ -33,7 +33,7 @@ TIMEOUT=5 node dist/src/index.js "mv $ /data" /usr/bin .csv
 ```
 \.
 ### Personal Use
-- I build this tool to execute python scripts on a directory of csv files. The script takes a single filename as an argument and does some processing.
+- I built this tool to execute python scripts on a directory of csv files. The py scripts take a single filename as an argument and do some processing.
 ```bash
 node dist/src/index.js "python3 myscript.py $" /dir/of/csvs .csv 
 ```
