@@ -15,7 +15,7 @@ async function main() {
   if (ending !== undefined) {
     console.log('file ending: ', ending)
   }
-  console.log('timeout: ', timeout)
+  console.log(`timeout: ${timeout}ms`)
 
   // check dir path
   if (!dir.startsWith('/home') && !dir.startsWith('~')) {

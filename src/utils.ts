@@ -7,7 +7,7 @@ export async function getFilesInDir(dir: string, ending: string | undefined) {
 }
 
 export function getTimeout(): number {
-  const t = 30
+  const t = 30000
   const tenv = process.env.TIMEOUT
   return tenv === undefined ? t : parseInt(tenv)
 }
